@@ -13,6 +13,7 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
     - [Content Management System](#content-management-system)
     - [Database Drivers](#database-drivers)
     - [Debugging Tools](#debugging-tools)
+    - [Deployment](#deployment)
     - [Documentation](#documentation)
     - [Environment Management](#environment-management)
     - [Files and MIME Type Manipulation](#files-and-mime-type-manipulation)
@@ -120,6 +121,13 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
 * [TraceGL](https://github.com/traceglMPL/tracegl) - Transforms your JavaScript, injecting monitoring code that produces a log of everything that happens.
 * [TypesJs](https://github.com/ChrisAntaki/typesjs) - Easy type checking, for Node & browsers.
 * [vstream](https://github.com/joyent/node-vstream) - Instrumentable streams mix-ins to inspect a pipeline of streams.
+
+## Deployment
+
+*Tools for Node application deployment*
+
+* [Phusion-Passenger](https://github.com/phusion/passenger/wiki/Phusion-Passenger:-Node.js-tutorial) - A fast and robust web server and application server for Ruby, Python and Node.js. 
+
 
 ## Documentation
 
