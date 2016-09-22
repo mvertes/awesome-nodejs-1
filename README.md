@@ -206,6 +206,7 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
 * [Hapi](https://github.com/spumko/hapi) - A rich framework for building applications and services.
 * [Derby](https://github.com/derbyjs/derby) - MVC framework making it easy to write realtime, collaborative applications that run in both Node.js and browsers.
 * [Derby-awesome](https://github.com/onerussell/awesome-derby) - A collection of awesome derby components
+* [AdonisJs](http://adonisjs.com/) - A MVC framework inspired by PHP Laravel.
 
 *Libraries for package and dependency management.*
 
