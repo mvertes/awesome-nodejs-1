@@ -241,6 +241,7 @@ Your pull requests are very welcome! Let's make this the awesomest resource for 
 * [peercast](https://github.com/mafintosh/peercast) - Stream a torrent video to Chromecast.
 * [peerflix](https://github.com/mafintosh/peerflix) - Streaming torrent client.
 * [peerwiki](https://github.com/mafintosh/peerwiki) - All of Wikipedia on BitTorrent.
+* [skale](https://github.com/skale-me/skale-engine) - High performance distributed data processing.
 * [turf](https://github.com/Turfjs/turf/) - Modular geospatial processing and analysis engine.
 * [webtorrent](https://github.com/feross/webtorrent) - Streaming torrent client for Node.js and the browser.
 
